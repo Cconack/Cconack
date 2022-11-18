@@ -1,7 +1,7 @@
-[![MasterHead](https://www.google.com/imgres?imgurl=https%3A%2F%2Fuiuxdesignschool.in%2Fimages%2Fworkingman.gif&imgrefurl=https%3A%2F%2Fuiuxdesignschool.in%2F&tbnid=0HXYFIRz0tdfxM&vet=12ahUKEwja5Yrm0Lf7AhUUjxoKHYXvDD8QMyggegUIARDlAQ..i&docid=CALDx1k3DomdeM&w=800&h=600&itg=1&q=animated%20image%20for%20coders%20and%20Ui%20designer&hl=en&ved=2ahUKEwja5Yrm0Lf7AhUUjxoKHYXvDD8QMyggegUIARDlAQ)](https:clemfolio.netlify.app)
+
 <h1 align="center">Hi 🕹 My name is Clement Mendie</h1>
 <h3 align="center">Front-End Developer & UI/UX Designer</h3>
-
+<img align="right" alt="Coding" width="400" src="https://www.google.com/imgres?imgurl=https%3A%2F%2Fuiuxdesignschool.in%2Fimages%2Fworkingman.gif&imgrefurl=https%3A%2F%2Fuiuxdesignschool.in%2F&tbnid=0HXYFIRz0tdfxM&vet=12ahUKEwja5Yrm0Lf7AhUUjxoKHYXvDD8QMyggegUIARDlAQ..i&docid=CALDx1k3DomdeM&w=800&h=600&itg=1&q=animated%20image%20for%20coders%20and%20Ui%20designer&hl=en&ved=2ahUKEwja5Yrm0Lf7AhUUjxoKHYXvDD8QMyggegUIARDlAQ" alt="">
 
 Hello, Currently I am on my way to becoming a Frontend Software Engineer and Lead Product Designer.I love making aesthetic designs using Figma and translating them into code using HTML, CSS and JavaScript. It's fun to code products that can be used 🌍 globally.
 
