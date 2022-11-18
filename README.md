@@ -1,7 +1,7 @@
 
 <h1 align="center">Hi 🕹 My name is Clement Mendie</h1>
 <h3 align="center">Front-End Developer & UI/UX Designer</h3>
-<img align="right" alt="Coding" width="400" src="https://www.google.com/imgres?imgurl=https%3A%2F%2Fuiuxdesignschool.in%2Fimages%2Fworkingman.gif&imgrefurl=https%3A%2F%2Fuiuxdesignschool.in%2F&tbnid=0HXYFIRz0tdfxM&vet=12ahUKEwja5Yrm0Lf7AhUUjxoKHYXvDD8QMyggegUIARDlAQ..i&docid=CALDx1k3DomdeM&w=800&h=600&itg=1&q=animated%20image%20for%20coders%20and%20Ui%20designer&hl=en&ved=2ahUKEwja5Yrm0Lf7AhUUjxoKHYXvDD8QMyggegUIARDlAQ" alt="">
+<!--img align="right" alt="Coding" width="400" src=" alt=""-->
 
 Hello, Currently I am on my way to becoming a Frontend Software Engineer and Lead Product Designer.I love making aesthetic designs using Figma and translating them into code using HTML, CSS and JavaScript. It's fun to code products that can be used 🌍 globally.
 
@@ -21,7 +21,7 @@ Hello, Currently I am on my way to becoming a Frontend Software Engineer and Lea
 <a href="https://www.w3.org/TR/CSS/#css" target="_blank" rel="noreferrer"><img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/skills/css3-colored.svg" width="36" height="36" alt="CSS3" /></a>
 <a href="https://reactjs.org/" target="_blank" rel="noreferrer"><img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/skills/react-colored.svg" width="36" height="36" alt="React" /></a>
  <a href="https://tailwindcss.com/" target="_blank" rel="noreferrer"> <img src="https://www.vectorlogo.zone/logos/tailwindcss/tailwindcss-icon.svg" alt="tailwind" width="36" height="36"/></a> 
- <a href="https://www.vue.js/" target="_blank" rel="noreferrer"><img src=" https://raw.githubusercontent.com/devicons/devicon/master/icons/vuejs/vuejs-original-wordmark.svg" alt="vuejs" width="36" height="36"  /></a>
+<a href="https://www.figma.com/" target="_blank" rel="noreferrer"> <img src="https://www.vectorlogo.zone/logos/figma/figma-icon.svg" alt="figma" width="40" height="40"/> </a> <a href="https://www.invisionapp.com/" target="_blank" rel="noreferrer"> <img src="https://www.vectorlogo.zone/logos/invisionapp/invisionapp-icon.svg" alt="invision" width="40" height="40"/> </a> <a href="https://www.photoshop.com/en" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/photoshop/photoshop-line.svg" alt="photoshop" width="40" height="40"/> </a> <a href="https://www.sketch.com/" target="_blank" rel="noreferrer"> <img src="https://www.vectorlogo.zone/logos/sketchapp/sketchapp-icon.svg" alt="sketch" width="40" height="40"/> </a> <a href="https://vuejs.org/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/vuejs/vuejs-original-wordmark.svg" alt="vuejs" width="40" height="40"/> </a> <a href="https://www.adobe.com/products/xd.html" target="_blank" rel="noreferrer"> <img src="https://cdn.worldvectorlogo.com/logos/adobe-xd.svg" alt="xd" width="40" height="40"/> </a> 
    <a href="https://getbootstrap.com" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/bootstrap/bootstrap-plain-wordmark.svg" alt="bootstrap" width="36" height="36"/>
 </p>
 
